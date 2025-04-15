@@ -25,6 +25,6 @@ School Management System (Console-based Python Project)  A simple school managem
 Make sure you have Python installed (version 3.6+ recommended).
 
 ```bash
-git clone https://github.com/your-username/school-management.git
+git clone https://github.com/behnamalam/school-management
 cd school-management
 python main.py
